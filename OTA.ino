@@ -10,7 +10,7 @@
 #define BULB_PIN 17
 
 // GitHub raw link to the firmware file
-const char* firmware_url = "https://raw.githubusercontent.com/Veolinan/OTA/main/OTA_Trial.ino.bootloader.bin";
+const char* firmware_url = "https://raw.githubusercontent.com/Veolinan/OTA/refs/heads/main/build/esp32.esp32.esp32/OTA_Trial.ino.bootloader.bin";
 
 // Preferences namespace for storing reboot count
 Preferences preferences;
